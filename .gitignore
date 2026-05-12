@@ -1,0 +1,6 @@
+records.json
+build/
+dist/
+__pycache__/
+*.pyc
+*.tmp
